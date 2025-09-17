@@ -102,6 +102,28 @@
     go build -o helloapi.exe ./cmd/server/main.go
     ```
 4.  Теперь в папке проекта появится (или обновится) файл `helloapi.exe`.
+---
+## Отчетные материалы
+
+**go version и /hello:**
+
+<img width="959" height="621" alt="image" src="https://github.com/user-attachments/assets/aa36bc55-1c08-4b85-bc56-91e4617a6c7c" />
+
+
+
+**/user:**
+
+<img width="956" height="830" alt="image" src="https://github.com/user-attachments/assets/c6dbf579-a500-458e-a14b-44e88c38aea3" />
+
+
+
+**/health:**
+
+<img width="951" height="1014" alt="image" src="https://github.com/user-attachments/assets/cd11ffc8-2230-4e63-a576-feb7166604ca" />
+
+
+
+
 
 ---
 *Этот проект был создан в качестве учебного задания.*
